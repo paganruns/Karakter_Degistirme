@@ -1,0 +1,15 @@
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Karakter_Degistirme\obj\Debug\net6.0\Karakter_Degistirme.csproj.AssemblyReference.cache
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Karakter_Degistirme\obj\Debug\net6.0\Karakter_Degistirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Karakter_Degistirme\obj\Debug\net6.0\Karakter_Degistirme.AssemblyInfoInputs.cache
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Karakter_Degistirme\obj\Debug\net6.0\Karakter_Degistirme.AssemblyInfo.cs
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Karakter_Degistirme\obj\Debug\net6.0\Karakter_Degistirme.csproj.CoreCompileInputs.cache
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Karakter_Degistirme\bin\Debug\net6.0\Karakter_Degistirme.exe
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Karakter_Degistirme\bin\Debug\net6.0\Karakter_Degistirme.deps.json
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Karakter_Degistirme\bin\Debug\net6.0\Karakter_Degistirme.runtimeconfig.json
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Karakter_Degistirme\bin\Debug\net6.0\Karakter_Degistirme.dll
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Karakter_Degistirme\bin\Debug\net6.0\Karakter_Degistirme.pdb
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Karakter_Degistirme\obj\Debug\net6.0\Karakter_Degistirme.dll
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Karakter_Degistirme\obj\Debug\net6.0\refint\Karakter_Degistirme.dll
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Karakter_Degistirme\obj\Debug\net6.0\Karakter_Degistirme.pdb
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Karakter_Degistirme\obj\Debug\net6.0\Karakter_Degistirme.genruntimeconfig.cache
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Karakter_Degistirme\obj\Debug\net6.0\ref\Karakter_Degistirme.dll
